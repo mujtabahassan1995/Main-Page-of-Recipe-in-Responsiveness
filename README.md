@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://mujtabahassan1995.github.io/Main-Page-of-Recipe-in-Responsiveness/]
+- Solution URL: (https://github.com/mujtabahassan1995/Main-Page-of-Recipe-in-Responsiveness)
+- Live Site URL: (https://mujtabahassan1995.github.io/Main-Page-of-Recipe-in-Responsiveness/)
 
 ## My process
 
