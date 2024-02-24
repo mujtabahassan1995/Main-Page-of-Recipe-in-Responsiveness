@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Main-Page-of-Recipe-in-Responsiveness/static/css/main.f696089a.css",
+    "main.js": "/Main-Page-of-Recipe-in-Responsiveness/static/js/main.ed8c0a3a.js",
+    "static/js/453.0a47b7b1.chunk.js": "/Main-Page-of-Recipe-in-Responsiveness/static/js/453.0a47b7b1.chunk.js",
+    "static/media/YoungSerif-Regular.ttf": "/Main-Page-of-Recipe-in-Responsiveness/static/media/YoungSerif-Regular.564996966d3552bf6282.ttf",
+    "static/media/youngserif-regular-webfont.woff": "/Main-Page-of-Recipe-in-Responsiveness/static/media/youngserif-regular-webfont.c8ac4109b2ca11220a35.woff",
+    "static/media/youngserif-regular-webfont.woff2": "/Main-Page-of-Recipe-in-Responsiveness/static/media/youngserif-regular-webfont.468bc7a9ec3a6f2557e7.woff2",
+    "index.html": "/Main-Page-of-Recipe-in-Responsiveness/index.html",
+    "main.f696089a.css.map": "/Main-Page-of-Recipe-in-Responsiveness/static/css/main.f696089a.css.map",
+    "main.ed8c0a3a.js.map": "/Main-Page-of-Recipe-in-Responsiveness/static/js/main.ed8c0a3a.js.map",
+    "453.0a47b7b1.chunk.js.map": "/Main-Page-of-Recipe-in-Responsiveness/static/js/453.0a47b7b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f696089a.css",
+    "static/js/main.ed8c0a3a.js"
+  ]
+}
