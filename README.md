@@ -34,7 +34,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-I actually work on react in order to enhance my skills on a new and in demand technology. I provide some of the areas which help me to boost my skills and knowledge. In the future, better help me to create my porfile and portfolio. I learn how to install react and how to return html codes from a javasscript funtion which is a core concept of a react and how to upload a local font in a CSS. 
+I actually work on react in order to enhance my skills on a new and in demand technology. I provide some of the areas which help me to boost my skills and knowledge. In the future, better help me to create my profile and portfolio. I learn how to install react and how to return html codes from a javasscript funtion which is a core concept of a react and how to upload a local font in a CSS. 
 
 To see how you can add code snippets, see below:
 
